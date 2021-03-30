@@ -1,0 +1,3 @@
+1.jupyter notebook --generate-config
+2.查找notebookApp.dir = "",去掉注释
+3.完成
